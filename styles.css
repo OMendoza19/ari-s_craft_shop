@@ -1,0 +1,27 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+#header {
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+    padding: 1em;
+    margin-bottom: 0px;
+}
+
+.logo {
+    border-radius: 50%;
+}
+
+.hlinks {
+    padding: 15px;
+    margin: 40px;
+    align-items: ;
+}
+
+.heromessage {
+    background-color: aquamarine;
+    margin-top: 0px;
+}
