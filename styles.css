@@ -1,27 +1,56 @@
 body {
     padding: 0px;
     margin: 0px;
+    font-family: Roboto;
 }
 
 #header {
     display: flex;
     justify-content: space-between;
-    background-color: aquamarine;
+    background-color: #E9A098;
     padding: 1em;
     margin-bottom: 0px;
 }
 
 .logo {
     border-radius: 50%;
+    margin-left: 40px;
 }
 
 .hlinks {
     padding: 15px;
     margin: 40px;
-    align-items: ;
+}
+
+a:link {
+    color: #DDCACE;
+    font-size: 21px;
+}
+
+#sec2 {
+    display: flex;
+    
 }
 
 .heromessage {
-    background-color: aquamarine;
-    margin-top: 0px;
+    display: flex;
+    flex-direction:column;
+    height: 300px;
+    width: 600px;
+    justify-content: flex-start;
+    background-color: #97615b;
+}
+button {
+   
+}
+h1 {
+    font-size: 55px;
+    margin-left: 40px;
+}
+
+#heroimg {
+    display: flex;
+    flex: 1;
+    padding: 0px;
+    margin: 0;
 }
